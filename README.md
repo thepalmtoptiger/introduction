@@ -1,5 +1,5 @@
 # introduction
-TFC introduction
+TFC introduction - something new
 Welcome to the All for the Game discord! Tell us a bit about yourself.   
 1. Name  
 2. Age  
