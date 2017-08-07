@@ -14,6 +14,6 @@ Welcome to the All for the Game discord! Tell us a bit about yourself.
 #headcanons-and-aus: share your headcanons with us. Respect each other’s headcanons and aus.   
 #salt: a place to vent  
 #the-foxes: rave about the psu foxes  
-#the-ravens: rave about the edgar allan ravens
-#the-trojans: rave about the usc trojans
+#the-ravens: rave about the edgar allan ravens   
+#the-trojans: rave about the usc trojans   
 #nsfw: you have to be +18 to participate in this channel
